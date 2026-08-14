@@ -1,0 +1,2 @@
+PROJECT_NAME = "EdgeVoice"
+VERSION = "1.0.0"
